@@ -1,0 +1,2 @@
+﻿Transaction Hash,Status,Method,BlockNo,DateTime (UTC),From,From_Nametag,To,To_Nametag,Amount,Value (USD),Token
+"0x996653be581116cbe6bcd435daca007ba365648db879b588ffb732c511c127ac","Success","Transfer","26405839","2026-11-13 11:47:59","0x7F7786F189E3dE6163e395f1615770b34AC8e35d","","0x450e9b6eBc7035d814F37E8f62e8fC878257a19a","","199.14","$199.09","USDC (USDC)"
